@@ -36,7 +36,7 @@
           <a id="save" class="form-button button is-primary is-inverted is-outlined">
             <span>Save</span>
           </a>
-          <a href="/" class="form-button button is-primary is-inverted is-outlined">
+          <a href="{{ url_for('.login') }}" class="form-button button is-primary is-inverted is-outlined">
             <span>Exit</span>
           </a>
           <br>
@@ -49,5 +49,5 @@
 </section>
 {% endblock %}
 {% block scripts %}
-<script src="../static/js/scripts.js"></script>
+<script src="{{ url_for('.static', filename='js/script.js') }}"></script>
 {% endblock %}
