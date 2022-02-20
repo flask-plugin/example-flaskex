@@ -1,18 +1,6 @@
-<p align="center"><img src="https://raw.githubusercontent.com/anfederico/Flaskex/master/media/flaskex-logo.png" width="128px"><p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/python-v3.6-blue.svg)
-![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
-[![GitHub Issues](https://img.shields.io/github/issues/anfederico/flaskex.svg)](https://github.com/anfederico/flaskex/issues)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ef2f8f65c67a4043a9362fa6fb4f487a)](https://www.codacy.com/app/RDCH106/Flaskex?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=RDCH106/Flaskex&amp;utm_campaign=Badge_Grade)
-[![Run on Repl.it](https://repl.it/badge/github/anfederico/Flaskex)](https://repl.it/github/anfederico/Flaskex)
+*This is a ported version of `flaskex` for compatibility with Flask-Plugin.*
 
-<br><br>
-
-**This is a ported version of flaskex for compatibility with Flask-Plugin.**
-
-<p align="center"><img src="https://raw.githubusercontent.com/anfederico/Flaskex/master/media/flaskex-demo.png" width="100%"><p>
+*Thanks to [anfederico](https://github.com/anfederico) and you could visit [changes I made](https://github.com/flask-plugin/flask-plugin-flaskex/commit/6b5a2ee8c0c31f70202b1f6a1447040a045e9dfc) to learn how to port a flask project into a flask-plugin.*
 
 ## Features
 - Encrypted user authorizaton
